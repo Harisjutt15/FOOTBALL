@@ -1,0 +1,160 @@
+
+#BANNER{
+     background-color: rgb(133, 205, 36);
+    padding-bottom: 20px;
+}
+#BANNERTEXT h1{
+    color: white;
+     margin-top: 100px;
+     font-size: 40px;
+}
+#BANNERTEXT p{
+    color: white;
+     margin-top: 20px;
+     margin-bottom: 10px;
+     font-size: 20px;
+}
+#BUTTON-1{
+    color: white;
+    background-color: orange;
+
+}
+#BUTTON-2{
+    color: white;
+    background-color: orangered;
+   margin-left: 30px;
+    
+}
+#BANNERIMG{
+    padding-top: 100PX;
+    
+}
+@media(max-width:830px ){
+    #BANNERTEXT{ 
+        margin-bottom: 10px;
+         }
+         #BANNERIMG{
+            padding-top: 30PX;
+            
+        }
+}
+@media(max-width:600px ){
+    #BANNERTEXT h1{ 
+        font-size: 35px;
+    }
+    #BUTTON-2{
+   margin-left: 5px;
+}
+}
+    
+#BANNER2{
+    background-color: hotpink;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#SERVICES h1{
+    color: white;
+     margin-top: 15%;
+     font-size: 40px;
+     text-align: center;
+}
+#SERVICES p{
+        color: white;
+     margin-top: 7%;
+     margin-bottom: 5%;
+     font-size: 20px;
+}
+#BUTTON-3{
+    color: white;
+    margin-bottom: 8%;
+    background-color: red;
+}
+.COUNTER-ICONS{
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+#BACKGROUND{
+  background-color: skyblue;
+  background-size: cover;
+  background-position: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+ 
+
+}
+#WORK{
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  #WORK h1{
+      font-size: 50px;
+      font-weight: bolder;
+  }
+  #WORK p{
+      font-size: 20px;
+     
+  }
+  .ARTICLE{
+    border: 1px solid rgb(185, 185, 185);
+    padding: 15px;
+}
+.ARTICLE a{
+     color: #00BEC9;
+}
+.COURSE{
+    color: #00BEC9;
+}
+
+#LASTCARTOONS{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#PIC3{
+padding-top: 10px;
+}
+#FOOTER{
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    background-color: #343434;
+    
+}
+F{
+    font-size: 20px;
+    margin-right: 12px;
+}
+#FORM{
+    margin-top: 10px;
+    margin-bottom:10px;
+    display: flex;
+    
+
+}
+#FOLLO{
+    padding-top: 20px;
+    padding-bottom: 50px;
+} 
+
+#INPUT{
+background-color: #fcc302;
+border: 1px solid white;
+padding: 7px;
+width: 100%;
+/*max-width: 300px;*/
+position: relative;
+}
+
+#BUTTON{
+    background-color: #00bec9;
+    border: 1px solid white;
+/*    padding: 7px;*/
+/*    position: absolute;*/
+    width: 40px;
+
+}
+H{
+    font-size: 15px;
+}
+  
+
